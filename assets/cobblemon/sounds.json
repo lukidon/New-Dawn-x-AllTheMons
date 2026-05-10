@@ -424,5 +424,10 @@
         "sounds": [
             "cobblemon:pokemon/drimpact/drimpact_cry"
         ]
+    },
+    "pokemon.perakkii.cry": {
+        "sounds": [
+            "cobblemon:pokemon/perakkii/perakkii_cry"
+        ]
     }
 }

@@ -1,0 +1,18 @@
+{
+  "species": "cobblemon:perakkii",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:perakkii",
+      "model": "cobblemon:perakkii.geo",
+      "texture": "cobblemon:textures/pokemon/4013_perakkii/perakkii.png"
+    },
+    {
+      "aspects": ["shiny"],
+      "poser": "cobblemon:perakkii",
+      "model": "cobblemon:perakkii.geo",
+      "texture": "cobblemon:textures/pokemon/4013_perakkii/perakkii_shiny.png"
+    }
+  ]
+}

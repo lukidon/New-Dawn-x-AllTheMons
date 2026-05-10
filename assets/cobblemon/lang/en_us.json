@@ -1,5 +1,5 @@
 {
-    "cobblemon.species.arceus-bug.desc": "Where all creation was born, that is the being's place of origin.",
+     "cobblemon.species.arceus-bug.desc": "Where all creation was born, that is the being's place of origin.",
     "cobblemon.species.arceus-dark.desc": "Two make matter, and three make spirit, shaping the world.",
     "cobblemon.species.arceus-dragon.desc": "Three beings were born to bind time and space.",
     "cobblemon.species.arceus-electric.desc": "The third being raged, raining down bolts of anger.",
@@ -409,5 +409,13 @@
     "cobblemon.species.queentana.desc": "Legend has it the first Queentana's were female Pawniard's who joined forces after mistreatment from their Kingambit. Queentana formulates and executes brutal strategies for decisive victories. This Pokémon is often seen poaching Pawniard from rival Kingambit.",
     
     "cobblemon.ui.pokedex.info.form.musharna-mega": "Mega",
-    "cobblemon.species.musharna-mega.desc": "Exposure to mega energy has caused Musharna to enter an impossibly deep sleep. its dream mist now forms a physical membrane resembling a pokemon that doesn't exist."
+    "cobblemon.species.musharna-mega.desc": "Exposure to mega energy has caused Musharna to enter an impossibly deep sleep. its dream mist now forms a physical membrane resembling a pokemon that doesn't exist.",
+
+    "cobblemon.species.perakkii.name": "Perakkii",
+    "cobblemon.species.perakkii.desc": "This Pokémon possesses a natural ability to influence luck for itself and others around it. Its skin is made of a material that is similar in texture to paper. Perakkii carries around a set of cards made of its paper-like fur to play a game with anyone willing to entertain it.",
+    "cobblemon.species.meowth-dawnian.name": "Meowth",
+    "cobblemon.species.meowth-dawnian.desc": "This breed of Meowth is consumed by avarice, it loves collecting shiny objects. It has been spotted in the wild playing a primitive form of cards with other Meowth. This Pokémon seems to come out the victor more often than not in any situation it's in.",
+    "cobblemon.move.luckydraw": "Lucky Draw",
+    "cobblemon.move.luckydraw.desc": "The user draws a card, which activates an effect based on its rank. Lower ranks backfire, while higher ones have stronger effects.",
+    "cobblemon.battle.activate.luckydraw": "%1$s drew %3$s!"
 }
