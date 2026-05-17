@@ -1,0 +1,31 @@
+{
+  "species": "cobblemon:glimmora",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["mega", "dawnian"],
+      "poser": "cobblemon:glimmora_dawnian_mega",
+      "model": "cobblemon:glimmora_dawnian_mega.geo",
+      "texture": "cobblemon:textures/pokemon/0970_glimmora/glimmora_dawnian_mega.png",
+        "layers": [      
+          {
+          "name": "liquid",
+          "texture": "cobblemon:textures/pokemon/0970_glimmora/glimmora_dawnian_mega_opacity.png",
+          "translucent": true,
+          "translucent_cull": true
+        }]
+    },
+    {
+      "aspects": ["mega", "shiny", "dawnian"],
+       "poser": "cobblemon:glimmora_dawnian_mega_shiny",
+      "texture": "cobblemon:textures/pokemon/0970_glimmora/glimmora_dawnian_mega_shiny.png",
+        "layers": [      
+          {
+          "name": "liquid",
+          "texture": "cobblemon:textures/pokemon/0970_glimmora/glimmora_dawnian_mega_opacity_shiny.png",
+          "translucent": true,
+          "translucent_cull": true
+        }]
+    }
+  ]
+}
