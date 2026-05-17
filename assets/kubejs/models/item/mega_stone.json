@@ -15,6 +15,12 @@
             "predicate": {
                 "custom_model_data": 2
             }
+        },
+        {
+            "model": "newdawn:item/dawnian_glimmoranite",
+            "predicate": {
+                "custom_model_data": 3
+            }
         }
     ]
 }
