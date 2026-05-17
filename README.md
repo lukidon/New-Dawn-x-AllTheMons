@@ -110,6 +110,7 @@ ATMxMSD is developed and maintained by easysqueeze, though all assets belong to 
     - Dawnian Glimmet line
     - Dawnian Dwebble line
     - Aveeon
+    - Dawnian Meowth line
 - Stewwen27 (Spidops Unbound, Dawnian Lilligant, Dawnian Luxray, Aveeon design)
 - eelimey (Spidops Unbound, Dawnian Lilligant)
 - ItsJustJ (Dawnian Sableye, Wendiglim, Dripplin, Lindcider, Papileon)
@@ -124,6 +125,6 @@ ATMxMSD is developed and maintained by easysqueeze, though all assets belong to 
 - CPUPanda (Mega Lapras)
 - Riamo (Commissioner, Stat Balancing)
 - pokemark (Commissioner)
-- Saeheras (Mega Musharna design, Dawnian Glimmet line design)
+- Saeheras (Mega Musharna design, Dawnian Glimmet line design, Xaero's Minimap icons)
 - ShinyFidough (Xaero's Minimap icons)
 - Lion (Emotional support)
