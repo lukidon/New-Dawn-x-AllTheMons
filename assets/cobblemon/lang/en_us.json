@@ -423,5 +423,9 @@
     "cobblemon.species.perakkii.desc": "This Pokémon possesses a natural ability to influence luck for itself and others around it. Its skin is made of a material that is similar in texture to paper. Perakkii carries around a set of cards made of its paper-like fur to play a game with anyone willing to entertain it.",
     "cobblemon.move.luckydraw": "Lucky Draw",
     "cobblemon.move.luckydraw.desc": "The user draws a card, which activates an effect based on its rank. Lower ranks backfire, while higher ones have stronger effects.",
-    "cobblemon.battle.activate.luckydraw": "%1$s drew %3$s!"
+    "cobblemon.battle.activate.luckydraw": "%1$s drew %3$s!",
+
+    "cobblemon.species.novior.name": "Novior",
+    "cobblemon.species.novior.desc": "After Minior absorbs cosmic radiation, its core awakens into a psychic nova. The fragments orbiting its body move in response to its thoughts.",
+    "cobblemon.pokedex.variation.core_color": "Core Color"
 }

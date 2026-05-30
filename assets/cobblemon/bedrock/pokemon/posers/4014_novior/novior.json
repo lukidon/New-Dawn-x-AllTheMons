@@ -1,0 +1,90 @@
+{
+  "rootBone": "novior",
+  "portraitScale": 1.55,
+  "portraitTranslation": [
+    0,
+    0.15,
+    0
+  ],
+  "profileScale": 1.12,
+  "profileTranslation": [
+    0,
+    0.35,
+    0
+  ],
+  "animations": {
+    "cry": "q.bedrock_stateful('novior', 'cry')",
+    "recoil": "q.bedrock_stateful('novior', 'recoil')"
+  },
+  "poses": {
+    "battle-hover": {
+      "poseTypes": [
+        "HOVER"
+      ],
+      "isBattle": true,
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('novior', 'battle_idle')"
+      ]
+    },
+    "hover": {
+      "poseTypes": [
+        "HOVER",
+        "NONE",
+        "PORTRAIT",
+        "PROFILE"
+      ],
+      "isBattle": false,
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('novior', 'ground_idle')"
+      ]
+    },
+    "fly": {
+      "poseTypes": [
+        "FLY"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('novior', 'ground_walk')"
+      ]
+    },
+    "battle-standing-fallback": {
+      "poseTypes": [
+        "STAND"
+      ],
+      "isBattle": true,
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('novior', 'battle_idle')"
+      ]
+    },
+    "standing-fallback": {
+      "poseTypes": [
+        "STAND"
+      ],
+      "isBattle": false,
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('novior', 'ground_idle')"
+      ]
+    },
+    "walking-fallback": {
+      "poseTypes": [
+        "WALK"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('novior', 'ground_walk')"
+      ]
+    },
+    "sleep": {
+      "poseTypes": [
+        "SLEEP"
+      ],
+      "animations": [
+        "q.bedrock('novior', 'sleep')"
+      ]
+    }
+  }
+}

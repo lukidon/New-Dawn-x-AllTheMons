@@ -1,0 +1,237 @@
+{
+  "species": "cobblemon:novior",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:novior",
+      "model": "cobblemon:novior.geo",
+      "texture": "cobblemon:textures/pokemon/4014_novior/novior_red.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/4014_novior/novior_red_emissive.png",
+          "emissive": true,
+          "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "red-core"
+      ],
+      "texture": "cobblemon:textures/pokemon/4014_novior/novior_red.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/4014_novior/novior_red_emissive.png",
+          "emissive": true,
+          "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "orange-core"
+      ],
+      "texture": "cobblemon:textures/pokemon/4014_novior/novior_orange.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/4014_novior/novior_orange_emissive.png",
+          "emissive": true,
+          "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "yellow-core"
+      ],
+      "texture": "cobblemon:textures/pokemon/4014_novior/novior_yellow.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/4014_novior/novior_yellow_emissive.png",
+          "emissive": true,
+          "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "green-core"
+      ],
+      "texture": "cobblemon:textures/pokemon/4014_novior/novior_green.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/4014_novior/novior_green_emissive.png",
+          "emissive": true,
+          "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "blue-core"
+      ],
+      "texture": "cobblemon:textures/pokemon/4014_novior/novior_light_blue.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/4014_novior/novior_light_blue_emissive.png",
+          "emissive": true,
+          "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "indigo-core"
+      ],
+      "texture": "cobblemon:textures/pokemon/4014_novior/novior_blue.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/4014_novior/novior_blue_emissive.png",
+          "emissive": true,
+          "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "violet-core"
+      ],
+      "texture": "cobblemon:textures/pokemon/4014_novior/novior_purple.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/4014_novior/novior_purple_emissive.png",
+          "emissive": true,
+          "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/4014_novior/novior_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/4014_novior/novior_shiny_emissive.png",
+          "emissive": true,
+          "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "red-core",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/4014_novior/novior_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/4014_novior/novior_shiny_emissive.png",
+          "emissive": true,
+          "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "orange-core",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/4014_novior/novior_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/4014_novior/novior_shiny_emissive.png",
+          "emissive": true,
+          "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "yellow-core",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/4014_novior/novior_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/4014_novior/novior_shiny_emissive.png",
+          "emissive": true,
+          "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "green-core",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/4014_novior/novior_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/4014_novior/novior_shiny_emissive.png",
+          "emissive": true,
+          "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "blue-core",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/4014_novior/novior_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/4014_novior/novior_shiny_emissive.png",
+          "emissive": true,
+          "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "indigo-core",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/4014_novior/novior_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/4014_novior/novior_shiny_emissive.png",
+          "emissive": true,
+          "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "violet-core",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/4014_novior/novior_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/4014_novior/novior_shiny_emissive.png",
+          "emissive": true,
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}
