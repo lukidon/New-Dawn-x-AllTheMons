@@ -429,5 +429,20 @@
         "sounds": [
             "cobblemon:pokemon/perakkii/perakkii_cry"
         ]
+    },
+    "pokemon.virosis.cry": {
+        "sounds": [
+            "cobblemon:pokemon/virosis/virosis_cry"
+        ]
+    },
+    "pokemon.permosion.cry": {
+        "sounds": [
+            "cobblemon:pokemon/permosion/permosion_cry"
+        ]
+    },
+    "pokemon.prionuclus.cry": {
+        "sounds": [
+            "cobblemon:pokemon/prionuclus/prionuclus_cry"
+        ]
     }
 }

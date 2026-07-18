@@ -447,5 +447,16 @@
     "cobblemon.species.perakkii.desc": "This Pokémon possesses a natural ability to influence luck for itself and others around it. Its skin is made of a material that is similar in texture to paper. Perakkii carries around a set of cards made of its paper-like fur to play a game with anyone willing to entertain it.",
     "cobblemon.move.luckydraw": "Lucky Draw",
     "cobblemon.move.luckydraw.desc": "The user draws a card, which activates an effect based on its rank. Lower ranks backfire, while higher ones have stronger effects.",
-    "cobblemon.battle.activate.luckydraw": "%1$s drew %3$s!"
+    "cobblemon.battle.activate.luckydraw": "%1$s drew %3$s!",
+
+    "cobblemon.species.virosis.name": "Virosis",
+    "cobblemon.species.virosis.desc": "Virosis should only be interacted with by certified scientists as despite being frozen it can still transmit a plethora of dangerous toxins. Research on Virosis has greatly improved the way we handle outbreaks and accelerates cure production.",
+
+     "cobblemon.species.permosion.name": "Permosion",
+    "cobblemon.species.permosion.desc": "When Virosis evolves its body hardens itself by absorbing moisture from the air. Permosion is the safest stage of its evolution, however it is still advised not to interact with Permosion as in non sub-zero temps its body may melt and release plague filled mist into the air.",
+
+     "cobblemon.species.prionuclus.name": "Prionuclus",
+    "cobblemon.species.prionuclus.desc": "The cells in Prionuclus' body have begun to unfold and decay, however its body creates new cells faster than they can decay. Prionuclus has to keep its body frozen at all times otherwise the heat will cause its healthy cells to die off rapidly."
+
+
 }
