@@ -114,7 +114,7 @@ ATMxMSD is developed and maintained by easysqueeze, though all assets belong to 
 - Stewwen27 (Spidops Unbound, Dawnian Lilligant, Dawnian Luxray, Aveeon design)
 - eelimey (Spidops Unbound, Dawnian Lilligant)
 - ItsJustJ (Dawnian Sableye, Wendiglim, Dripplin, Lindcider, Papileon)
-- deuli (Basketball..?, Lucky Meowth, Gen 1 Starter Mimikyus, Meloetta fixes, and 90% of bug fixes (we love you Deuli))
+- deuli (Baskét Ball Electrodes, Dawnian Meowth design, Gen 1 Starter Mimikyus, Meloetta fixes, and 90% of bug fixes (we love you Deuli))
 - Omniv (Bug and Texture Fixes)
 - Unseennote (Commissioner)
 - Edancheese (Commissioner, Concept Drafter, Ribumblebee, Dawnian Dwebble line design)
@@ -128,3 +128,4 @@ ATMxMSD is developed and maintained by easysqueeze, though all assets belong to 
 - Saeheras (Mega Musharna design, Dawnian Glimmet line design, Xaero's Minimap icons)
 - ShinyFidough (Xaero's Minimap icons)
 - Lion (Emotional support)
+- lnkky (Novior)

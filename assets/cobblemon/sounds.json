@@ -430,6 +430,11 @@
             "cobblemon:pokemon/perakkii/perakkii_cry"
         ]
     },
+    "pokemon.novior.cry": {
+      "sounds": [
+        "cobblemon:pokemon/novior/novior_cry"
+      ]
+    },
     "pokemon.virosis.cry": {
         "sounds": [
             "cobblemon:pokemon/virosis/virosis_cry"

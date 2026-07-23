@@ -449,6 +449,10 @@
     "cobblemon.move.luckydraw.desc": "The user draws a card, which activates an effect based on its rank. Lower ranks backfire, while higher ones have stronger effects.",
     "cobblemon.battle.activate.luckydraw": "%1$s drew %3$s!",
 
+    "cobblemon.species.novior.name": "Novior",
+    "cobblemon.species.novior.desc": "After Minior absorbs cosmic radiation, its core awakens into a psychic nova. The fragments orbiting its body move in response to its thoughts.",
+    "cobblemon.pokedex.variation.core_color": "Core Color",
+
     "cobblemon.species.virosis.name": "Virosis",
     "cobblemon.species.virosis.desc": "Virosis should only be interacted with by certified scientists as despite being frozen it can still transmit a plethora of dangerous toxins. Research on Virosis has greatly improved the way we handle outbreaks and accelerates cure production.",
 
@@ -457,6 +461,4 @@
 
      "cobblemon.species.prionuclus.name": "Prionuclus",
     "cobblemon.species.prionuclus.desc": "The cells in Prionuclus' body have begun to unfold and decay, however its body creates new cells faster than they can decay. Prionuclus has to keep its body frozen at all times otherwise the heat will cause its healthy cells to die off rapidly."
-
-
 }
